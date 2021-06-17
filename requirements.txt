@@ -7,15 +7,10 @@ dash-design-kit==0.0.1
 dash-html-components==1.1.3
 dash-renderer==1.9.1
 dash-table==4.11.3
-ipython @ file:///C:/ci/ipython_1617121002983/work
 ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1610481889018/work
-lazy-object-proxy @ file:///C:/ci/lazy-object-proxy_1616529307648/work
 matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
 numpy @ file:///C:/ci/numpy_and_numpy_base_1618497418457/work
 pandas @ file:///C:/ci/pandas_1618365634936/work
 plotly==4.14.3
 pyflakes @ file:///home/ktietz/src/ci_ipy2/pyflakes_1612551159640/work
-python-language-server @ file:///tmp/build/80754af9/python-language-server_1607972495879/work
 scipy @ file:///C:/ci/scipy_1618856128765/work
-unicodecsv==0.14.1
-widgetsnbextension==3.5.1
